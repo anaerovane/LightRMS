@@ -1,2 +1,2 @@
 # LightRMS
-Low-light Remote Sensing Image Enhancement 
+Night remote sensing image enhancement
